@@ -1,0 +1,11 @@
+.format {
+  font-size: 12px;
+  display: inline;
+  line-height: 2px;
+}
+.note span {
+  font-weight: bold;
+}
+.holidays {
+  font-style: italic;
+}
